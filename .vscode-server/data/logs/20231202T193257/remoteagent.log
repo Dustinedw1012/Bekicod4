@@ -1,0 +1,18 @@
+2023-12-02 19:32:57.034 [info] 
+
+
+
+
+2023-12-02 19:32:57.047 [info] Extension host agent started.
+2023-12-02 19:32:57.255 [info] [127.0.0.1][97233b47][ManagementConnection] New connection established.
+2023-12-02 19:32:57.993 [info] [127.0.0.1][02a8365e][ExtensionHostConnection] New connection established.
+2023-12-02 19:32:58.001 [info] [127.0.0.1][02a8365e][ExtensionHostConnection] <3999> Launched Extension Host Process.
+2023-12-02 19:33:08.974 [info] Getting Manifest... ecmel.vscode-html-css
+2023-12-02 19:33:09.662 [info] Installing extension: ecmel.vscode-html-css
+2023-12-02 19:33:16.723 [warning] Extension signature verification failed with error 'ENOENT': ecmel.vscode-html-css
+2023-12-02 19:33:16.761 [info] Extracted extension to file:///home/bakar/.vscode-server/extensions/ecmel.vscode-html-css-1.13.1: ecmel.vscode-html-css
+2023-12-02 19:33:16.766 [info] Renamed to /home/bakar/.vscode-server/extensions/ecmel.vscode-html-css-1.13.1
+2023-12-02 19:33:16.769 [info] Extracting extension completed. ecmel.vscode-html-css
+2023-12-02 19:33:16.776 [info] Extension installed successfully: ecmel.vscode-html-css
+2023-12-02 22:22:56.782 [info] [127.0.0.1][97233b47][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-12-02 22:22:56.855 [info] [127.0.0.1][02a8365e][ExtensionHostConnection] <3999> Extension Host Process exited with code: 0, signal: null.

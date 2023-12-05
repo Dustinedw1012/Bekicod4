@@ -1,0 +1,12 @@
+2023-11-27 19:30:26.077 [info] Extension host with pid 48813 started
+2023-11-27 19:30:26.117 [info] Lock '/home/bakar/.vscode-server/data/User/workspaceStorage/b414b65076cad9e477e6bbacf59c9a8c/vscode.lock': Lock acquired.
+2023-11-27 19:30:26.160 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-11-27 19:30:26.247 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-27 19:30:26.474 [info] Eager extensions activated
+2023-11-27 19:30:26.475 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-27 19:30:26.476 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-27 19:31:17.140 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-11-27 19:37:43.887 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-11-27 19:37:43.887 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-27 19:43:16.687 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-11-28 05:33:34.006 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'

@@ -1,0 +1,11 @@
+2023-11-27 19:30:23.415 [info] 
+
+
+
+
+2023-11-27 19:30:23.415 [info] Extension host agent started.
+2023-11-27 19:30:23.415 [info] Started initializing default profile extensions in extensions installation folder. file:///home/bakar/.vscode-server/extensions
+2023-11-27 19:30:23.478 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/bakar/.vscode-server/extensions
+2023-11-27 19:30:23.530 [info] [127.0.0.1][639ba004][ManagementConnection] New connection established.
+2023-11-27 19:30:24.618 [info] [127.0.0.1][5c6f6473][ExtensionHostConnection] New connection established.
+2023-11-27 19:30:24.625 [info] [127.0.0.1][5c6f6473][ExtensionHostConnection] <48813> Launched Extension Host Process.

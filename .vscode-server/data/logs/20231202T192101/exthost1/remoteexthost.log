@@ -1,0 +1,15 @@
+2023-12-02 19:21:04.580 [info] Extension host with pid 1297 started
+2023-12-02 19:21:04.580 [error] Error: EEXIST: file already exists, open '/home/bakar/.vscode-server/data/User/workspaceStorage/bd0b4e959d0d86c9714c585cec957042/vscode.lock'
+2023-12-02 19:21:04.602 [info] Lock '/home/bakar/.vscode-server/data/User/workspaceStorage/bd0b4e959d0d86c9714c585cec957042/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-12-02 19:21:04.603 [info] Lock '/home/bakar/.vscode-server/data/User/workspaceStorage/bd0b4e959d0d86c9714c585cec957042/vscode.lock': The pid 71475 appears to be gone.
+2023-12-02 19:21:04.603 [info] Lock '/home/bakar/.vscode-server/data/User/workspaceStorage/bd0b4e959d0d86c9714c585cec957042/vscode.lock': Deleting a stale lock.
+2023-12-02 19:21:04.705 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-12-02 19:21:04.759 [info] Lock '/home/bakar/.vscode-server/data/User/workspaceStorage/bd0b4e959d0d86c9714c585cec957042/vscode.lock': Lock acquired.
+2023-12-02 19:21:04.816 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-12-02 19:21:04.816 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-02 19:21:05.447 [info] Eager extensions activated
+2023-12-02 19:21:05.447 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-02 19:21:05.456 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-02 19:21:22.797 [info] Extension host terminating: received terminate message from renderer
+2023-12-02 19:21:22.798 [info] Lock '/home/bakar/.vscode-server/data/User/workspaceStorage/bd0b4e959d0d86c9714c585cec957042/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-12-02 19:21:22.838 [info] Extension host with pid 1297 exiting with code 0
